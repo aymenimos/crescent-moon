@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767384169368",
+    "project_id": "crescent-6b36e",
+    "storage_bucket": "crescent-6b36e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767384169368:android:1e065c7dfa58c53d0b19ed",
+        "android_client_info": {
+          "package_name": "com.aymenimos.crescentmoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00tb0JoS49a1mfsetBKh8VehJtLdy6nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
